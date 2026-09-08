@@ -1,0 +1,15 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\Owner\CLionProjects\EEL-3111C_Circuits-1\Lab-3_LTspice\3-3_Loading-affect.net
+Start Time: Tue Sep  8 01:19:28 2026
+C:\Users\Owner\CLionProjects\EEL-3111C_Circuits-1\Lab-3_LTspice\3-3_Loading-affect.net(5): No such parameter defined.
+R1 Vout1 N002 {R}
+               ^
+C:\Users\Owner\CLionProjects\EEL-3111C_Circuits-1\Lab-3_LTspice\3-3_Loading-affect.net(6): No such parameter defined.
+R2 Vout1 0 {R}
+            ^
+C:\Users\Owner\CLionProjects\EEL-3111C_Circuits-1\Lab-3_LTspice\3-3_Loading-affect.net(7): No such parameter defined.
+R3 Vout2 N001 {R}
+               ^
+C:\Users\Owner\CLionProjects\EEL-3111C_Circuits-1\Lab-3_LTspice\3-3_Loading-affect.net(8): No such parameter defined.
+R4 Vout2 0 {R}
+            ^

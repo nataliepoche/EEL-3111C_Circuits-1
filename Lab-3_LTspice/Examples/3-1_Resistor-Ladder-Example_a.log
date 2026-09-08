@@ -1,0 +1,14 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\Owner\CLionProjects\EEL-3111C_Circuits-1\Lab-3_LTspice\3-1_Resistor-Ladder-Example_a.net
+Start Time: Tue Sep  8 00:53:48 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.100 seconds.
+
+Files loaded:
+C:\Users\Owner\CLionProjects\EEL-3111C_Circuits-1\Lab-3_LTspice\3-1_Resistor-Ladder-Example_a.net
+
