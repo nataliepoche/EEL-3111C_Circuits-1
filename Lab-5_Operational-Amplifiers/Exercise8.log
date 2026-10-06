@@ -1,0 +1,17 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\Owner\CLionProjects\EEL-3111C_Circuits-1\Lab-5_Operational-Amplifiers\Exercise8.net
+Start Time: Tue Sep 29 11:28:52 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+
+Simulation stopped by user.
+Total elapsed time: 15.914 seconds.
+
+Files loaded:
+C:\Users\Owner\CLionProjects\EEL-3111C_Circuits-1\Lab-5_Operational-Amplifiers\Exercise8.net
+C:\Users\Owner\CLionProjects\EEL-3111C_Circuits-1\Lab-5_Operational-Amplifiers\TLV271.LIB
+

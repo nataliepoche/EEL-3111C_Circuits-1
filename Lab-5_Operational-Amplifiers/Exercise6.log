@@ -1,19 +1,19 @@
 LTspice 26.0.2 for Windows
 Circuit: C:\Users\Owner\CLionProjects\EEL-3111C_Circuits-1\Lab-5_Operational-Amplifiers\Exercise6.net
-Start Time: Tue Sep 29 10:53:58 2026
+Start Time: Tue Sep 29 18:33:15 2026
 solver = Normal
 Maximum thread count: 16
 tnom = 27
 temp = 27
 method = trap
 Direct Newton iteration succeeded in finding operating point.
-Total elapsed time: 0.277 seconds.
+Total elapsed time: 0.727 seconds.
 
 Files loaded:
 C:\Users\Owner\CLionProjects\EEL-3111C_Circuits-1\Lab-5_Operational-Amplifiers\Exercise6.net
 C:\Users\Owner\CLionProjects\EEL-3111C_Circuits-1\Lab-5_Operational-Amplifiers\TLV271.LIB
 
-vinmax: MAX(V(in))=0.999998211861 FROM 0 TO 0.001
-vinmmin: MIN(V(in))=-0.999999880791 FROM 0 TO 0.001
-voutmax: MAX(V(out))=5.00036907196 FROM 0 TO 0.001
-voutmin: MIN(V(out))=-5.0003695488 FROM 0 TO 0.001
+vinmax: MAX(V(in))=0.999996423721 FROM 0 TO 0.001
+vinmmin: MIN(V(in))=-0.999995470047 FROM 0 TO 0.001
+voutmax: MAX(V(out))=7.46687737774e-06 FROM 0 TO 0.001
+voutmin: MIN(V(out))=-7.47503099774e-06 FROM 0 TO 0.001
