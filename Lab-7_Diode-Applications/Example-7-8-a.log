@@ -1,8 +1,8 @@
 LTspice 26.0.2 for Windows
 Circuit: C:\Users\Owner\CLionProjects\EEL-3111C_Circuits-1\Lab-7_Diode-Applications\Example-7-8-a.net
-Start Time: Tue Oct 13 07:31:40 2026
+Start Time: Tue Oct 27 01:37:47 2026
 
-.step w=0
+.step w=100
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -10,21 +10,27 @@ temp = 27
 method = trap
 Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
-Gmin stepping succeeded in finding the operating point.
+Gmin stepping failed to find operating point. Use".option gminsteps=0" to skip all Gmin stepping.
+Starting source stepping with srcstepmethod=0
+Source stepping succeeded in finding the operating point.
 
 
-.step w=5000
+.step w=500
 Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
-Gmin stepping succeeded in finding the operating point.
+Gmin stepping failed to find operating point. Use".option gminsteps=0" to skip all Gmin stepping.
+Starting source stepping with srcstepmethod=0
+Source stepping succeeded in finding the operating point.
 
 
-.step w=10000
+.step w=1000
 Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
-Gmin stepping succeeded in finding the operating point.
+Gmin stepping failed to find operating point. Use".option gminsteps=0" to skip all Gmin stepping.
+Starting source stepping with srcstepmethod=0
+Source stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.559 seconds.
+Total elapsed time: 1.018 seconds.
 
 Files loaded:
 C:\Users\Owner\CLionProjects\EEL-3111C_Circuits-1\Lab-7_Diode-Applications\Example-7-8-a.net
